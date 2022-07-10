@@ -19,4 +19,8 @@ while(index < numbers.Length)
     }
     index++;
 }
-Console.WriteLine(max);
+Console.WriteLine(x);
+Console.WriteLine(y);
+Console.WriteLine(z);
+Console.Write("Максимальное число = ");
+Console.Write(max);
